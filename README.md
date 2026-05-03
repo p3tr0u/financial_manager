@@ -7,4 +7,6 @@ This program offers a variety of financial managing features:
 -Save in file
 -Load from file
 
+-------
+
 Project is consisted of just one file, compile via "make finance".
