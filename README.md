@@ -1,6 +1,7 @@
 ## Financial Manager
 
 This program offers a variety of financial managing features:
+
 -Print transaction history
 
 -Add transaction
